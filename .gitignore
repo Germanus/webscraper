@@ -1,0 +1,5 @@
+.idea/*
+/.idea/
+/.settings/
+/backend/.project
+/backend/.classpath

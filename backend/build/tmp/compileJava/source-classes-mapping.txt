@@ -1,0 +1,10 @@
+webscraper/model/Article.java
+ webscraper.model.Article
+webscraper/repository/ArticleRepository.java
+ webscraper.repository.ArticleRepository
+webscraper/model/ArticleDO.java
+ webscraper.model.ArticleDO
+webscraper/rest/HabrController.java
+ webscraper.rest.HabrController
+webscraper/Main.java
+ webscraper.Main
